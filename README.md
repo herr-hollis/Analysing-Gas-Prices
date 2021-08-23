@@ -1,2 +1,2 @@
-# Analysing-Gas-Prices
-Visualize data on Gas Prices with the matplotlib library of Python
+# Analysing-Petrol-Prices
+Visualize data on Petrol Prices with the matplotlib library of Python
